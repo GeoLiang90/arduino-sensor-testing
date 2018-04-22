@@ -1,3 +1,4 @@
+//Written by George Liang (GeoLiang90)
 //Defining Constants
 //Digital pins
 const int triggPin = 11;
